@@ -18,4 +18,4 @@
 
 Так как это полносвязная нейросеть, то она чувствительна к расположению объекта, его размеру и углу наклона. То есть правильно распознавать изображения она будет лишь в том случае, если вышеуказанные параметры будут совпадать с параметрами в датасете.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/qnwWK3zlI8Q/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/qnwWK3zlI8Q)
+[![](http://img.youtube.com/vi/qnwWK3zlI8Q/0.jpg)](http://www.youtube.com/watch?v=qnwWK3zlI8Q)
